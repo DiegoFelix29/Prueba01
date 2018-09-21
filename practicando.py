@@ -6,3 +6,7 @@ suma(5,2,6)
 Diego=1
 Mediopolvo=2
 Diego+Medio=3
+
+print(Diego)
+trabajo=["Diego","Leo","Jacobo","Maria"]
+print(trabajo[1:2])
